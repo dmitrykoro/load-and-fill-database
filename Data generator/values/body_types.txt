@@ -1,0 +1,5 @@
+SUV
+Sedan
+Hatchback
+Coupe
+Station wagon
