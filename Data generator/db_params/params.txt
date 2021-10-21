@@ -1,1 +1,0 @@
-postgres postgres Dima1408 localhost
